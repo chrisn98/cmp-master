@@ -1,0 +1,6 @@
+/*
+The print and println methods are two services provided by the system.out object
+An escape sequence represents a character that would cause compilation problems
+Narrowing conversions should be avoided because you can loose information
+
+ */
