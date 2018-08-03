@@ -1,16 +1,24 @@
 /*
-The print and println methods are two services provided by the system.out obect
-An escape sequence can be used to represent a character that would cause an error
+New operatore returns a reference of newly created objects
 
-Java has two kinds of numeric values, integer and floating point values.
-    There are four integer data types and two floating point data types
+Multiple reference variables can refer to the same object
 
-Narrowing conversions should be avoided because they cause a loss of information
+A class library provides useful support when developing programs
 
-The Color class contains predefined colors that are commonly used to define many colors in the RGB scale
+A pseudorandom number generator performs calculations to create randomness
 
-Applets are JAVA programs that are transported across a network and started using a web browser (OUTDATED)
+The printf method was added to Java to support migration of legacy systems, think C programmers
+
+Enumerated types are type-safe, ensuring that invalid values cannot be implemented
+
+A wrapper class allows a primitive value to be managed by an object
+
+Autoboxing provides automatic conversions between primitive values and corresponding wrapper objects
+
+A frame is displayed as a seperate window, but a panel can be displayed as part of another container
+
+Panels can be nested to create an intricate containment hierarchy of components.
+A label can contain text, an image, or both
 
 
  */
-
